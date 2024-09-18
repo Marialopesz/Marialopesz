@@ -1,6 +1,4 @@
-<p align="left">
-  ## ✨ Hello World!! ✨
-</p>
+## Oiii eu sou a Maria Eduarda Lopes, Seja Bem vindo ao meu GitHub!✨
 
 ---
 
