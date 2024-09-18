@@ -1,5 +1,4 @@
 <h1> Hey, I'm Maria! Welcome to my GitHub! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.gif" alt="🥳" width="50"> </h1>
----
 
 ## 🚀 About Me:
 
