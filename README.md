@@ -1,5 +1,4 @@
-## Oiii eu sou a Maria Eduarda Lopes, Seja Bem vindo ao meu GitHub!✨
-
+<h1> Hey, I'm Maria! Welcome to my GitHub! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.gif" alt="🥳" width="50"> </h1>
 ---
 
 ## 🚀 About Me:
@@ -59,10 +58,6 @@ I'm always up for a gaming challenge and **love singing in my free time**! 🎤�
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marialopesz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/marialopesz/marialopesz/output/snake.svg" alt="Snake animation" />
-
-###
 
 
