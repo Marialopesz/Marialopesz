@@ -4,7 +4,7 @@
 
 - 🎓 **Career Goals**: At 19, I’m dedicated to mastering IT with a focus on design and development. I’m currently studying and building skills to pursue a successful career in these fields.
 - 🎮 **Gaming Enthusiast**: Passionate about **Valorant**, **Fortnite**, and more!
-- 💻 **Web Development**: Building a **BMI calculator** to help people with their health goals.
+- 💻 **Full Stack Development**: Training to become a Full Stack Developer, capable of designing prototypes and implementing them effectively.
 - 🎤 **Singing**: Enjoy singing all types of music.
 
 
@@ -20,8 +20,6 @@
   - 🔍 Gaining practical experience in **JavaScript**, **Expo**, **JWT**, **React Navigation**, and **Figma** for design prototyping.
 
 ---
-
-## 💻 Technologies & Tools:
 
 ## 💻 Technologies & Tools:
 
